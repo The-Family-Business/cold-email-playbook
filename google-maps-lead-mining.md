@@ -87,7 +87,7 @@ Suplex extracts review themes and uses them as personalization variables in AI-g
 - Team size indicators
 - Review themes and customer language
 
-**Cost with Suplex:** Included in subscription. No per-lead fees.  
+**Cost with Suplex:** Included in subscription. 750 leads included per plan. After that: $0.025/lead (Apify rate, zero Suplex markup) or BYOK.  
 **Cost with Apollo for equivalent data:** $0.03-0.10+/lead in credits.
 
 ## Combining Google Maps + LinkedIn
