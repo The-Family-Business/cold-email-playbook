@@ -193,6 +193,22 @@ Always add something new. Never just "checking in."
 
 ---
 
+
+## AI Campaign Strategist
+
+Most cold email tools make you figure out what to say. Suplex figures it out with you.
+
+Suplex learns your business — your offer, your USPs, what makes you different — and suggests outreach campaigns:
+
+- **Obvious campaigns**: Direct offer, pain point focused, ROI angle, comparison to competitors
+- **Unique campaigns**: Non-obvious angles your prospects haven't heard — event-triggered, competitor switcher, niche positioning, seasonal hooks
+
+You choose which campaigns to run. You keep the ones that convert. The AI does the ideation.
+
+This is fundamentally different from templates. Templates are starting points you customize. Campaign suggestions are strategic angles specific to your business that the AI surfaces because it understands your USPs.
+
+→ [See it in action at Suplex](https://trysuplex.com)
+
 ## Resources
 
 ### Documentation
