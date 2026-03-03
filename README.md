@@ -194,6 +194,19 @@ Always add something new. Never just "checking in."
 ---
 
 
+## How Suplex Writes Emails
+
+Not templates. Not keyword fills. Full AI generation.
+
+Every email Suplex sends is generated from four inputs:
+
+1. **AI research on the prospect** — website, services, tech stack, reviews
+2. **Your USP** — what makes your business unique
+3. **Your tone** — how you want to sound
+4. **Your preferred length** — short and punchy, or detailed
+
+Same settings. Different prospects. Completely different emails every time — because the research is different every time.
+
 ## AI Campaign Strategist
 
 Most cold email tools make you figure out what to say. Suplex figures it out with you.
