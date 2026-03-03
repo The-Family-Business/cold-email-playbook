@@ -2,7 +2,7 @@
 
 The complete guide to B2B cold email outreach — tools, tactics, and systems that actually work.
 
-> **Maintained by [Suplex](https://trysuplex.com)** — the desktop app that replaces your entire outreach stack for ~$89/month.
+> **Maintained by [Suplex](https://trysuplex.com)** — the desktop app that replaces your entire outreach stack for $97/month.
 
 ---
 
@@ -34,7 +34,7 @@ A typical B2B outreach stack in 2026 costs **$454/month**:
 
 This is before you've sent a single email.
 
-**Suplex replaces all 6 categories** in one desktop app for ~$89/month. Your data stays on your machine. No vendor lock-in.
+**Suplex replaces all 6 categories** in one desktop app for $97/month. Your data stays on your machine. No vendor lock-in.
 
 → [See how Suplex works](https://trysuplex.com)
 
@@ -46,7 +46,7 @@ This is before you've sent a single email.
 
 | Tool | Lead Gen | Enrichment | AI Personalization | Price |
 |------|---------|-----------|-------------------|-------|
-| **[Suplex](https://trysuplex.com)** | ✅ Built-in | ✅ Free (local) | ✅ Free (BYOK) | ~$89/mo |
+| **[Suplex](https://trysuplex.com)** | ✅ Built-in | ✅ Free (local) | ✅ Free (BYOK) | ~$97/mo |
 | Instantly | ❌ | ❌ | Basic | $37-97/mo |
 | Smartlead | ❌ | ❌ | Limited | $39-94/mo |
 | Apollo.io | ✅ Database | Basic | Basic | $49-99+/mo |
@@ -57,7 +57,7 @@ This is before you've sent a single email.
 
 | Tool | Source | Per-Lead Cost | Monthly |
 |------|--------|--------------|---------|
-| **[Suplex](https://trysuplex.com)** | Google Maps + LinkedIn (live) | $0 | ~$89/mo all-in |
+| **[Suplex](https://trysuplex.com)** | Google Maps + LinkedIn (live) | $0 | ~$97/mo all-in |
 | Apollo.io | Database (275M contacts) | Credit-based | $49-99+/mo |
 | ZoomInfo | Database | $1.25+/lead | $15,000+/yr |
 | Clay | 50+ sources | $0.50+/lead | $149+/mo |
@@ -182,7 +182,7 @@ Always add something new. Never just "checking in."
 
 - 6-7 Gmail/Outlook accounts
 - Suplex handles rotation and scheduling
-- Cost: ~$89/month
+- Cost: $97/month
 - All enrichment and personalization included
 
 ### Agency Scale (2,500+ emails/day)

@@ -107,7 +107,7 @@ Result: company context + personal context = highly personalized outreach.
 
 | Tool | Automation | Enrichment | Cost |
 |------|-----------|-----------|------|
-| **[Suplex](https://trysuplex.com)** | ✅ Full | ✅ Included | ~$89/mo all-in |
+| **[Suplex](https://trysuplex.com)** | ✅ Full | ✅ Included | ~$97/mo all-in |
 | Manual extraction | ❌ Manual | ❌ Manual | Time only |
 | Outscraper | ✅ | ❌ | $0.001/record |
 | PhantomBuster | ✅ | ❌ | $59-139/mo |

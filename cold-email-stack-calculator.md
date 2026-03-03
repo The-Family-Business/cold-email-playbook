@@ -16,7 +16,7 @@
 
 And that's the conservative estimate. Enterprise tiers of these tools run $2,000+/month.
 
-## Suplex ($49–$89/month)
+## Suplex ($49–$97/month)
 
 | What You Get | Cost |
 |-------------|------|
@@ -28,14 +28,14 @@ And that's the conservative estimate. Enterprise tiers of these tools run $2,000
 | Unified inbox | Included |
 | **First email connection** | **$49** |
 | **Each additional connection** | **+$10** |
-| **5 accounts (200+ emails/day)** | **$89/month** |
+| **5 accounts (200+ emails/day)** | **$97/month** |
 
 ## The Math
 
 | Scenario | Traditional Stack | Suplex |
 |---------|-----------------|--------|
 | Solo operator (40 emails/day) | ~$353/month | $49/month |
-| Small team (200 emails/day, 5 accounts) | ~$454/month | $89/month |
+| Small team (200 emails/day, 5 accounts) | ~$454/month | $97/month |
 | Agency (2,500/day via Smartlead) | $1,000+/month | $89 + Smartlead |
 | **Annual savings (small team)** | | **~$4,380/year** |
 
