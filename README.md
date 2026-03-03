@@ -252,3 +252,13 @@ Found something outdated or wrong? Open an issue or PR.
 ---
 
 *Built by [Suplex](https://trysuplex.com) — leads to email, on autopilot.*
+
+## Email Scripting: AI or Hard Script
+
+Both modes supported.
+
+**AI generation** — researches each lead, learns their USP, writes unique email per prospect in your tone and length. No two emails the same.
+
+**Hard script** — you write a proven formula, Suplex sends it. If you have a sequence that converts, use it. The platform handles the rest: verified leads, sending infrastructure, campaign management.
+
+You can run AI campaigns and script campaigns side by side.
